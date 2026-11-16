@@ -1,0 +1,7 @@
+{
+  "name": "tinyfiles",
+  "version": "1.0.0",
+  "description": "Tiny Lua library for reading, writing and appending files, simple YAML and JSON config, and Roblox-style wait() and file.parent.",
+  "main": "tinyfiles.lua",
+  "lua": ["5.1", "5.2", "5.3", "5.4", "5.5"]
+}
